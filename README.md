@@ -1,2 +1,2 @@
-Welcome I'm a final year student in Creative Computing and an aspiring backend developer.
+Welcome I'm a full stack web developer.
 The projects that I have worked on can be viewed here. 
